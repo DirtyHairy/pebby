@@ -47,9 +47,9 @@
     ]
   },
   "shortName": "PebbyCS",
-  "uuid": "01a70c71-d8c1-4e33-9c12-c646168380e1",
+  "uuid": "cb49397f-824b-422c-bfbe-697fbe02b6ad",
   "versionCode": 1,
-  "versionLabel": "0.2",
+  "versionLabel": "0.3",
   "watchapp": {
     "watchface": false
   },
